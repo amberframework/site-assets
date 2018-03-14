@@ -1,4 +1,4 @@
-# Amber framework Assets
+# Amber Framework Assets
 
 This repo has some assets used on [Amber's README](https://github.com/amberframework/amber).
 
